@@ -7,7 +7,7 @@ Hi 👋, I'm Jean-Didier ELISABETH passionate by Business Growth based on tailor
 
 🦄 I’m currently working at [BNB solutions digitales - développement d'application métier sur mesure](https://bnb.re?utm_medium=referral&utm_source=github)
 
-🌱 I’m currently healp company to digitalize their process.
+🌱 I’m currently help companies digitalize their processes.
 
 💬 Ask me about Business Case, Growth based on tailor-made software
 
@@ -19,4 +19,4 @@ Connect with me:
 ](https://www.linkedin.com/in/jeandidier-elisabeth/)
 
 Languages and Tools:
-Laravel git go graphql javascript oracle mysql postgresql projet_management vmware proxmox
+Laravel git go graphql javascript oracle mysql postgresql project_management vmware proxmox
